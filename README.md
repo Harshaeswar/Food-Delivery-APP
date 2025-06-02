@@ -36,8 +36,6 @@ A complete **Food Delivery Android Application** built with **Java** using **And
 
 ## 📸 Screenshots
 
-> _Add your app screenshots here_
-
 - Login / Register Screen
 - Home Page with Restaurants
 - Food Menu
